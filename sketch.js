@@ -7,7 +7,7 @@ var obstacles1, obstacles2,obstacles3,obstacles4,obstaclesImage1,obstaclesImage2
 var brickImage,brickGroup;
 var gameState="play";
 var jumpSound,dieSound,checkPointSound;
-var score;
+var score=0;
 
 
 function preload(){
